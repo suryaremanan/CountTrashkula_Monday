@@ -35473,6 +35473,13 @@ var _group8522Default = parcelHelpers.interopDefault(_group8522);
 var _homepage4Css = require("./Homepage4.css");
 function Homepage4(props) {
     const { homepageBackgroundMask , dailyLiveCount , ofTopCategories , forAllCategories , ofTop6Categories , recommendations , basedOnYourActivity , line1 , yourActivity , totalCount , line10 , surname , paper , cardboard , plastic , metal , trash , rectangle26 , vector2 , group441Props , group442Props , group75Props , frame9Props ,  } = props;
+    async function load_model() {
+        // It's possible to load the model locally or from a repo
+        // You can choose whatever IP and PORT you want in the "http://127.0.0.1:8080/model.json"     just set it before in your https server
+        const model = await loadGraphModel("http://127.0.0.1:8080/model.json");
+        //const model = await loadGraphModel("https://raw.githubusercontent.com/hugozanini/TFJS-object-detection/master/models/web_model/model.json");
+        return model;
+    }
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "container-center-horizontal",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35485,7 +35492,7 @@ function Homepage4(props) {
                         src: homepageBackgroundMask
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 54,
+                        lineNumber: 62,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35493,7 +35500,7 @@ function Homepage4(props) {
                         children: dailyLiveCount
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 55,
+                        lineNumber: 63,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35501,7 +35508,7 @@ function Homepage4(props) {
                         children: ofTopCategories
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 56,
+                        lineNumber: 64,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35509,7 +35516,7 @@ function Homepage4(props) {
                         children: forAllCategories
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 57,
+                        lineNumber: 65,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35517,7 +35524,7 @@ function Homepage4(props) {
                         children: ofTop6Categories
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 58,
+                        lineNumber: 66,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35525,7 +35532,7 @@ function Homepage4(props) {
                         children: recommendations
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 59,
+                        lineNumber: 67,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35533,7 +35540,7 @@ function Homepage4(props) {
                         children: basedOnYourActivity
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 60,
+                        lineNumber: 68,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -35541,7 +35548,7 @@ function Homepage4(props) {
                         src: line1
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 61,
+                        lineNumber: 69,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35549,7 +35556,7 @@ function Homepage4(props) {
                         children: yourActivity
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 62,
+                        lineNumber: 70,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35557,7 +35564,7 @@ function Homepage4(props) {
                         children: totalCount
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 63,
+                        lineNumber: 71,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group44Default.default), {
@@ -35566,7 +35573,7 @@ function Homepage4(props) {
                         expandMoreFILL1Wght300GRAD0Opsz482Props: group441Props.expandMoreFILL1Wght300GRAD0Opsz482Props
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 64,
+                        lineNumber: 72,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group44Default.default), {
@@ -35575,24 +35582,24 @@ function Homepage4(props) {
                         expandMoreFILL1Wght300GRAD0Opsz482Props: group442Props.expandMoreFILL1Wght300GRAD0Opsz482Props
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 69,
+                        lineNumber: 77,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group15Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 74,
+                        lineNumber: 82,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group75Default.default), {
                         beerCanSvgrepoCom3Props: group75Props.beerCanSvgrepoCom3Props
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 75,
+                        lineNumber: 83,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group71Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 76,
+                        lineNumber: 84,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -35600,7 +35607,7 @@ function Homepage4(props) {
                         src: line10
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 77,
+                        lineNumber: 85,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35608,7 +35615,7 @@ function Homepage4(props) {
                         children: surname
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 78,
+                        lineNumber: 86,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35616,7 +35623,7 @@ function Homepage4(props) {
                         children: paper
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 79,
+                        lineNumber: 87,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35624,7 +35631,7 @@ function Homepage4(props) {
                         children: cardboard
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 80,
+                        lineNumber: 88,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35632,7 +35639,7 @@ function Homepage4(props) {
                         children: plastic
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 81,
+                        lineNumber: 89,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35640,7 +35647,7 @@ function Homepage4(props) {
                         children: metal
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 82,
+                        lineNumber: 90,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35648,67 +35655,67 @@ function Homepage4(props) {
                         children: trash
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 83,
+                        lineNumber: 91,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group79Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 84,
+                        lineNumber: 92,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group76Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 85,
+                        lineNumber: 93,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group73Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 86,
+                        lineNumber: 94,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group77Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 87,
+                        lineNumber: 95,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group69Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 88,
+                        lineNumber: 96,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group67Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 89,
+                        lineNumber: 97,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group74Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 90,
+                        lineNumber: 98,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group70Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 91,
+                        lineNumber: 99,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group78Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 92,
+                        lineNumber: 100,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group72Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 93,
+                        lineNumber: 101,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group66Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 94,
+                        lineNumber: 102,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group68Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 95,
+                        lineNumber: 103,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _frame9Default.default), {
@@ -35717,12 +35724,12 @@ function Homepage4(props) {
                         overlapGroup1: frame9Props.overlapGroup1
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 96,
+                        lineNumber: 104,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _group8522Default.default), {}, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 101,
+                        lineNumber: 109,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -35730,7 +35737,7 @@ function Homepage4(props) {
                         src: rectangle26
                     }, void 0, false, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 102,
+                        lineNumber: 110,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35740,7 +35747,7 @@ function Homepage4(props) {
                                 className: "rectangle-123"
                             }, void 0, false, {
                                 fileName: "components/Homepage4/index.jsx",
-                                lineNumber: 104,
+                                lineNumber: 112,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -35755,17 +35762,17 @@ function Homepage4(props) {
                                                 src: "/img/homepage-vector-1D54DE94-DB9C-4D19-A22F-927990F61BF7@2x.png"
                                             }, void 0, false, {
                                                 fileName: "components/Homepage4/index.jsx",
-                                                lineNumber: 108,
+                                                lineNumber: 116,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "components/Homepage4/index.jsx",
-                                            lineNumber: 107,
+                                            lineNumber: 115,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "components/Homepage4/index.jsx",
-                                        lineNumber: 106,
+                                        lineNumber: 114,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -35779,50 +35786,50 @@ function Homepage4(props) {
                                                     src: vector2
                                                 }, void 0, false, {
                                                     fileName: "components/Homepage4/index.jsx",
-                                                    lineNumber: 114,
+                                                    lineNumber: 122,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "components/Homepage4/index.jsx",
-                                                lineNumber: 113,
+                                                lineNumber: 121,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "components/Homepage4/index.jsx",
-                                            lineNumber: 112,
+                                            lineNumber: 120,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "components/Homepage4/index.jsx",
-                                        lineNumber: 111,
+                                        lineNumber: 119,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "components/Homepage4/index.jsx",
-                                lineNumber: 105,
+                                lineNumber: 113,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "components/Homepage4/index.jsx",
-                        lineNumber: 103,
+                        lineNumber: 111,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "components/Homepage4/index.jsx",
-                lineNumber: 53,
+                lineNumber: 61,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "components/Homepage4/index.jsx",
-            lineNumber: 52,
+            lineNumber: 60,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "components/Homepage4/index.jsx",
-        lineNumber: 51,
+        lineNumber: 59,
         columnNumber: 5
     }, this);
 }
