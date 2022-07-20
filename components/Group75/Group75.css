@@ -1,0 +1,70 @@
+.group-75,
+.group-75-1,
+.group-75-2,
+.group-75-3,
+.group-75-4,
+.group-75-5 {
+  align-items: center;
+  background-color: var(--blizzard-blue);
+  box-shadow: 0px 2px 9px #0000002b;
+  display: flex;
+  flex-direction: column;
+  left: 261px;
+  min-height: 174px;
+  padding: 24px 73.8px;
+  position: absolute;
+  top: 164px;
+  width: 228px;
+}
+
+.overlap-group2-2,
+.overlap-group-3,
+.overlap-group2-3,
+.overlap-group2-4,
+.overlap-group2-5,
+.overlap-group2-6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 60px;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  min-width: 60px;
+  padding: 18px;
+  position: relative;
+}
+
+.metal-1,
+.metal-2,
+.metal-3,
+.metal-4,
+.metal-5,
+.metal-6 {
+  align-self: flex-start;
+  font-weight: 500;
+  letter-spacing: 0.32px;
+  line-height: 16px;
+  margin-top: 15px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.number-30,
+.number-31,
+.number-32,
+.number-33,
+.number-34,
+.number-35 {
+  font-weight: 500;
+  letter-spacing: 0.32px;
+  line-height: 20px;
+  margin-left: 0.32px;
+  margin-top: 12px;
+  min-height: 20px;
+  min-width: 18px;
+  text-align: center;
+  white-space: nowrap;
+}
+

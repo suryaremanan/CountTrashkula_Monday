@@ -1,0 +1,131 @@
+.group-67,
+.group-67-1,
+.group-67-2,
+.group-67-3,
+.group-67-4,
+.group-67-5 {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  box-shadow: 0px 1px 10px #00000029;
+  display: flex;
+  flex-direction: column;
+  left: 24px;
+  min-height: 174px;
+  padding: 6px 5.7px;
+  position: absolute;
+  top: 801px;
+  width: 702px;
+}
+
+.overlap-group10,
+.overlap-group7-6,
+.overlap-group9-1,
+.overlap-group10-2,
+.overlap-group10-3,
+.overlap-group10-4 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--sea-green);
+  display: flex;
+  height: 48px;
+  min-width: 690px;
+  padding: 5px 6px;
+}
+
+.overlap-group-4,
+.overlap-group-5,
+.overlap-group-6,
+.overlap-group-7,
+.overlap-group-8,
+.overlap-group-9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white-3);
+  display: flex;
+  height: 37px;
+  min-width: 54px;
+  padding: 6px 13px;
+}
+
+.vector-74,
+.vector-75,
+.vector-76,
+.vector-77,
+.vector-78,
+.vector-79 {
+  height: 22px;
+  width: 23px;
+}
+
+.paper-scanned-this-week,
+.paper-scanned-this-week-1,
+.paper-scanned-this-week-2,
+.paper-scanned-this-week-3,
+.paper-scanned-this-week-4,
+.paper-scanned-this-week-5 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 10px;
+  margin-top: 4.0px;
+  min-height: 20px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.number-72,
+.number-73,
+.number-74,
+.number-75,
+.number-76,
+.number-77 {
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 16px;
+  margin-top: 3.0px;
+  min-height: 23px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.overlap-group9,
+.overlap-group8-5,
+.overlap-group10-1,
+.overlap-group9-2,
+.overlap-group9-3,
+.overlap-group9-4 {
+  height: 91px;
+  margin-top: 17px;
+  position: relative;
+  width: 690px;
+}
+
+.we-recommend,
+.we-recommend-1,
+.we-recommend-2,
+.we-recommend-3,
+.we-recommend-4,
+.we-recommend-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.lorem-ipsum-lorem-ip,
+.lorem-ipsum-lorem-ip-1,
+.lorem-ipsum-lorem-ip-2,
+.lorem-ipsum-lorem-ip-3,
+.lorem-ipsum-lorem-ip-4,
+.lorem-ipsum-lorem-ip-5 {
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: 24px;
+  position: absolute;
+  top: 19px;
+  width: 690px;
+}
+

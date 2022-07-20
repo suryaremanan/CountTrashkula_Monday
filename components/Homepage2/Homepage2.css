@@ -1,0 +1,641 @@
+.homepage2 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  height: 1024px;
+  min-width: 1440px;
+}
+
+.overlap-group16-5 {
+  height: 1028px;
+  position: relative;
+  width: 1440px;
+}
+
+.homepage-background-mask-1 {
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.daily-live-count-1 {
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  white-space: nowrap;
+}
+
+.of-all-categories-2 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  white-space: nowrap;
+}
+
+.for-all-categories-1 {
+  left: 832px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 126px;
+  white-space: nowrap;
+}
+
+.of-all-categories-3 {
+  left: 830px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 661px;
+  white-space: nowrap;
+}
+
+.recommendations-1 {
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 553px;
+  white-space: nowrap;
+}
+
+.based-on-your-activity-1 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 578px;
+  white-space: nowrap;
+}
+
+.line-1-1 {
+  height: 3px;
+  left: 316px;
+  position: absolute;
+  top: 554px;
+  transform: rotate(-90deg);
+  width: 945px;
+}
+
+.your-activity-1 {
+  font-weight: 600;
+  left: 830px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  white-space: nowrap;
+}
+
+.total-count-1 {
+  font-weight: 600;
+  left: 830px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 636px;
+  white-space: nowrap;
+}
+
+.group-100-5 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  box-shadow: 0px 0px 4px #176f5f91;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  left: 1126px;
+  min-width: 141px;
+  padding: 11.3px 10.7px;
+  position: absolute;
+  top: 101px;
+}
+
+.monthly-1 {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 24px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.line-10-2 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 1441px;
+}
+
+.group-109 {
+  align-items: flex-start;
+  display: flex;
+  height: 462px;
+  left: 859px;
+  min-width: 489px;
+  position: absolute;
+  top: 159px;
+}
+
+.flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: -2px;
+  margin-top: 19px;
+  min-height: 381px;
+  width: 103px;
+}
+
+.surname-13 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 51px;
+  white-space: nowrap;
+}
+
+.paper-13 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  margin-right: 2px;
+  margin-top: 48px;
+  min-height: 24px;
+  min-width: 50px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.cardboard-13 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  margin-right: 2px;
+  margin-top: 47px;
+  min-height: 24px;
+  min-width: 101px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.plastic-13 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  margin-right: 2px;
+  margin-top: 48px;
+  min-height: 24px;
+  min-width: 64px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.metal-13 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  margin-right: 2px;
+  margin-top: 47px;
+  min-height: 24px;
+  min-width: 51px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.trash-13 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  margin-right: 2px;
+  margin-top: 47px;
+  min-height: 24px;
+  min-width: 52px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.frame-9-2 {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  cursor: pointer;
+  display: flex;
+  height: 80px;
+  left: 24px;
+  overflow: hidden;
+  padding: 2px 0;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.overlap-group15-5 {
+  height: 67px;
+  margin-left: -5px;
+  position: relative;
+  width: 94px;
+}
+
+.overlap-group3-8 {
+  height: 53px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.ellipse-21-2 {
+  background-color: var(--white-4);
+  border-radius: 51px/3px;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 51px;
+}
+
+.ellipse-17-2 {
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 3px;
+  width: 34px;
+}
+
+.vector-124 {
+  height: 1px;
+  left: 41px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.vector-125 {
+  height: 1px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.vector-126 {
+  height: 2px;
+  left: 30px;
+  position: absolute;
+  top: 10px;
+  transform: rotate(16.72deg);
+  width: 7px;
+}
+
+.subtract-2 {
+  height: 43px;
+  left: 3px;
+  position: absolute;
+  top: 9px;
+  width: 46px;
+}
+
+.group-19-2 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 11px;
+  left: 8px;
+  min-width: 33px;
+  padding: 0 6.0px;
+  position: absolute;
+  top: 0;
+}
+
+.ellipse-container-2 {
+  height: 8px;
+  margin-bottom: -1.03px;
+  position: relative;
+  width: 20px;
+}
+
+.ellipse-5-2 {
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.ellipse-6-2 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.vector-1-3 {
+  height: 22px;
+  left: 31px;
+  position: absolute;
+  top: 27px;
+  width: 11px;
+}
+
+.overlap-group1-11 {
+  background-size: 100% 100%;
+  height: 5px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 8px;
+}
+
+.overlap-group-16 {
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.ellipse-12-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-8.11deg);
+  width: 6px;
+}
+
+.polygon-2-2 {
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  transform: rotate(151.87deg);
+  width: 1px;
+}
+
+.polygon-1-2 {
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(11.91deg);
+  width: 1px;
+}
+
+.rectangle-49-2 {
+  height: 6px;
+  left: 17px;
+  position: absolute;
+  top: 12px;
+  width: 3px;
+}
+
+.rectangle-52-2 {
+  height: 6px;
+  left: 30px;
+  position: absolute;
+  top: 12px;
+  transform: rotate(180deg);
+  width: 3px;
+}
+
+.ellipse-15-2 {
+  background-color: var(--mona-lisa);
+  border-radius: 4px/1px;
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.ellipse-16-2 {
+  background-color: var(--mona-lisa);
+  border-radius: 4px/1px;
+  height: 1px;
+  left: 36px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.vector-127 {
+  height: 2px;
+  left: 14px;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-17.65deg);
+  width: 7px;
+}
+
+.ellipse-18-2 {
+  height: 5px;
+  left: 31px;
+  position: absolute;
+  top: 37px;
+  width: 4px;
+}
+
+.polygon-3-2 {
+  height: 8px;
+  left: 21px;
+  position: absolute;
+  top: 26px;
+  width: 10px;
+}
+
+.ellipse-19-2 {
+  height: 2px;
+  left: 28px;
+  position: absolute;
+  top: 49px;
+  transform: rotate(-3.04deg);
+  width: 4px;
+}
+
+.ellipse-20-2 {
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 49px;
+  transform: rotate(-3.57deg);
+  width: 4px;
+}
+
+.overlap-group2-8 {
+  height: 25px;
+  left: 3px;
+  position: absolute;
+  top: 28px;
+  width: 21px;
+}
+
+.rectangle-47-2 {
+  height: 23px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-6.55deg);
+  width: 18px;
+}
+
+.rectangle-51-2 {
+  height: 20px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(-11.04deg);
+  width: 8px;
+}
+
+.recycling_fill0_wght400_grad0_opsz48-1-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  left: 5px;
+  overflow: hidden;
+  position: absolute;
+  top: 8px;
+  width: 9px;
+}
+
+.vector-128 {
+  height: 10px;
+  margin-top: -0.32px;
+  width: 11px;
+}
+
+.count-trashkula-2 {
+  left: 0;
+  letter-spacing: -0.16px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 31px;
+  width: 94px;
+}
+
+.group-85-1 {
+  align-items: center;
+  background-color: var(--caribbean-green-pearl);
+  box-shadow: 0px 2px 10px #00000026;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  left: 602px;
+  min-width: 124px;
+  padding: 0 17px;
+  position: absolute;
+  top: 101px;
+}
+
+.record-1 {
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 4px;
+  min-height: 24px;
+  min-width: 67px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.group-98 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  box-shadow: 0px 2px 4px #00000029;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  left: 1287px;
+  min-height: 348px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 153px;
+  width: 129px;
+}
+
+.january {
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 3px;
+  min-height: 24px;
+}
+
+.group-98-item {
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 3px;
+  margin-top: 4px;
+  min-height: 24px;
+}
+
+.october {
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 2px;
+  margin-top: 4px;
+  min-height: 24px;
+}
+
+.november {
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 1px;
+  margin-top: 4px;
+  min-height: 24px;
+}
+
+.december,
+.today {
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: 4px;
+  min-height: 24px;
+}
+
+.group-102 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  box-shadow: 0px 2px 4px #00000029;
+  display: flex;
+  flex-direction: column;
+  left: 1138px;
+  min-height: 68px;
+  padding: 8px 15px;
+  position: absolute;
+  top: 153px;
+  width: 129px;
+}
+
+.weekly {
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19px;
+  min-height: 24px;
+}
+

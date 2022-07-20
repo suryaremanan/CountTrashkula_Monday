@@ -1,0 +1,143 @@
+.group-71,
+.group-71-1,
+.group-71-2,
+.group-71-3,
+.group-71-4,
+.group-71-5 {
+  align-items: center;
+  background-color: var(--macaroni-cheese);
+  box-shadow: 0px 2px 9px #0000002b;
+  display: flex;
+  flex-direction: column;
+  left: 831px;
+  min-height: 134px;
+  padding: 12px 29.9px;
+  position: absolute;
+  top: 841px;
+  width: 186px;
+}
+
+.overlap-group3-2,
+.overlap-group1-10,
+.overlap-group3-3,
+.overlap-group3-4,
+.overlap-group3-5,
+.overlap-group3-6 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 40px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 0 11px;
+}
+
+.trash-svgrepo-com-3,
+.trash-svgrepo-com-3-1,
+.trash-svgrepo-com-3-2,
+.trash-svgrepo-com-3-3,
+.trash-svgrepo-com-3-4,
+.trash-svgrepo-com-3-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 18px;
+  padding: 0 1px;
+  width: 18px;
+}
+
+.vector-32,
+.vector-36,
+.vector-40,
+.vector-44,
+.vector-48,
+.vector-52 {
+  height: 2px;
+  margin-left: 1px;
+  width: 15px;
+}
+
+.vector-container-1,
+.vector-container-2,
+.vector-container-3,
+.vector-container-4,
+.vector-container-5,
+.vector-container-6 {
+  align-items: flex-start;
+  background-image: url(/static/img/homepage-vector-8AC0421E-2723-4E4D-B5C2-12B65A44CE35@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  margin-top: 1px;
+  min-height: 15px;
+  padding: 1px 2px;
+  width: 13px;
+}
+
+.vector-33,
+.vector-37,
+.vector-41,
+.vector-45,
+.vector-49,
+.vector-53 {
+  height: 1px;
+  margin-top: 9px;
+  width: 8px;
+}
+
+.vector-34,
+.vector-38,
+.vector-42,
+.vector-46,
+.vector-50,
+.vector-54 {
+  height: 1px;
+  width: 8px;
+}
+
+.vector-35,
+.vector-39,
+.vector-43,
+.vector-47,
+.vector-51,
+.vector-55 {
+  height: 1px;
+  margin-top: 1px;
+  width: 8px;
+}
+
+.trash-1,
+.trash-2,
+.trash-3,
+.trash-4,
+.trash-5,
+.trash-6 {
+  align-self: flex-start;
+  font-weight: 500;
+  letter-spacing: 0.28px;
+  line-height: 14px;
+  margin-top: 15px;
+  min-height: 14px;
+  text-align: center;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.number-36,
+.number-37,
+.number-38,
+.number-39,
+.number-40,
+.number-41 {
+  font-weight: 500;
+  letter-spacing: 0.32px;
+  line-height: 20px;
+  margin-left: 0.32px;
+  margin-top: 8px;
+  min-height: 20px;
+  min-width: 18px;
+  text-align: center;
+  white-space: nowrap;
+}
+

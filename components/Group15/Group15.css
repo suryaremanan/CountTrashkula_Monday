@@ -1,0 +1,171 @@
+.group-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 966px;
+  min-height: 462px;
+  position: absolute;
+  top: 159px;
+  width: 382px;
+}
+
+.overlap-group1-4 {
+  height: 444px;
+  margin-left: 4px;
+  position: relative;
+  width: 348px;
+}
+
+.group-14 {
+  align-items: flex-start;
+  display: flex;
+  height: 444px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 348px;
+  padding: 0 73.4px;
+  position: absolute;
+  top: 0;
+}
+
+.line-container {
+  height: 445px;
+  margin-top: -0.63px;
+  position: relative;
+  width: 200px;
+}
+
+.line-7 {
+  height: 3px;
+  left: -221px;
+  position: absolute;
+  top: 221px;
+  transform: rotate(-90.00deg);
+  width: 445px;
+}
+
+.line-8 {
+  height: 3px;
+  left: -123px;
+  position: absolute;
+  top: 221px;
+  transform: rotate(-90.00deg);
+  width: 445px;
+}
+
+.line-9 {
+  height: 3px;
+  left: -24px;
+  position: absolute;
+  top: 221px;
+  transform: rotate(-90.00deg);
+  width: 445px;
+}
+
+.rectangle-79 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 337px;
+}
+
+.rectangle-80 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 299px;
+}
+
+.rectangle-81 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 151px;
+  width: 281px;
+}
+
+.rectangle-82 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 223px;
+  width: 232px;
+}
+
+.rectangle-83 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 294px;
+  width: 209px;
+}
+
+.rectangle-84 {
+  height: 46px;
+  left: 1px;
+  position: absolute;
+  top: 365px;
+  width: 125px;
+}
+
+.number-container {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  min-width: 382px;
+}
+
+.number {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 17px;
+  white-space: nowrap;
+  width: 8px;
+}
+
+.number-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 69px;
+  min-height: 17px;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.number-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 71px;
+  min-height: 17px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.number-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 69px;
+  min-height: 17px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.number-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 39px;
+  min-height: 17px;
+  white-space: nowrap;
+}
+
+.group-15.group-15-1 {
+  left: unset;
+  margin-left: 6px;
+  position: unset;
+  top: unset;
+}
+

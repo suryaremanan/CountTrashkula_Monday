@@ -1,0 +1,20 @@
+.radio_button_checked-2,
+.radio_button_checked-3,
+.radio_button_checked-4,
+.radio_button_checked-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  padding: 1px;
+  width: 18px;
+}
+
+.vector-129,
+.vector-130,
+.vector-131,
+.vector-132 {
+  height: 15px;
+  margin-left: 1px;
+  width: 15px;
+}
+

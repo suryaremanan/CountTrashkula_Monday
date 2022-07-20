@@ -1,0 +1,47 @@
+.group-44 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  left: 1275px;
+  min-width: 141px;
+  padding: 11.3px 10.7px;
+  position: absolute;
+  top: 101px;
+}
+
+.name {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 24px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+
+.group-44.group-44-1 {
+  box-shadow: 0px 0px 4px #176f5f91;
+}
+
+.group-44.group-44-1 .name,
+.group-44.group-44-2 .name,
+.group-44.group-44-3 .name,
+.group-44.group-44-4 .name,
+.group-44.group-44-5 .name {
+  min-width: 87px;
+}
+
+.group-44.group-100-1,
+.group-44.group-100-2,
+.group-44.group-100-3,
+.group-44.group-100-4 {
+  left: 1126px;
+}
+
+.group-44.group-100-1 .name,
+.group-44.group-100-2 .name,
+.group-44.group-100-3 .name,
+.group-44.group-100-4 .name {
+  min-width: 66px;
+}
+
